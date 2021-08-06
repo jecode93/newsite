@@ -7,7 +7,33 @@
     <title>Simple While and Do while loop</title>
 </head>
 <body>
-    <h1>Simple While and Do while loop</h1>
+    <h1>While loop</h1>
+
+    <?php 
+
+        $count = 0;
+        while ($count <= 10) {
+            echo '<p> La valeur de Count est : '.$count.'.</p>';
+            $count++;
+        }
+        
+        echo 'Exit loop!';
+    
+    ?>
+
+
+    <h1>Do while</h1>
+
+    <?php 
+
+        $count = 0;
+        do{
+            echo '<p>I am a do while loop</p>';
+            $count++;
+        }while($count <= 10);
+    
+    
+    ?>
     
 </body>
 </html>
