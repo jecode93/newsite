@@ -14,6 +14,8 @@
         <li><a href="while_do_while_loop.php">Simple While and Do while loop</a></li>
         <li><a href="ifstatement.php">Simple If Statement</a></li>
         <li><a href="switchstatement.php">Simple Switch Statement</a></li>
+        <li><a href="stringManipulation.php">Simple String manipulation</a></li>
+
     </ul>
 
     <!-- Basic HTML -->
