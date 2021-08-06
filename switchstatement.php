@@ -7,8 +7,25 @@
     <title>Simple Switch Statement</title>
 </head>
 <body>
-    <h1>Simple Switch Statement</h1>
+    <?php
+    echo '<h1>Simple Switch Statement</h1>';
 
+    $grade = 'A';
+
+    switch ($grade) {
+        case 'A':
+            echo '<h3 style = "color : green"> You are a superstar</h3>';
+            break;
+        case 'B':
+            echo '<h3 style = "color : blue"> You did well</h3>';
+            break;
+        default:
+        echo '<h3 style = "color : red"> You have failed</h3>';
+        break;
+    }
+
+
+    ?>
     
 </body>
 </html>
