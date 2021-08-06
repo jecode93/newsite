@@ -11,8 +11,7 @@
     <ul>
         <li><a href="array.php">Simple Array and  Printouts</a></li>
         <li><a href="forloop.php">Simple For Loop</a></li>
-        <li><a href="dowhileloop.php">Simple Do while</a></li>
-        <li><a href="whileloop.php">Simple While loop</a></li>
+        <li><a href="while_do_while_loop.php">Simple While and Do while loop</a></li>
         <li><a href="ifstatement.php">Simple If Statement</a></li>
         <li><a href="switchstatement.php">Simple Switch Statement</a></li>
     </ul>
