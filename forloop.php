@@ -7,7 +7,15 @@
     <title>Simple For Loop</title>
 </head>
 <body>
-    <h1>Simple For Loop</h1>
+    <?php
+        echo '<h1>Simple For Loop</h1>';
+
+        // For loops.
+        for($count = 0; $count < 5; $count++){
+            echo '<p>Count is : ' . $count . ' digit. </p>';
+        }
+
+    ?>
     
 </body>
 </html>
